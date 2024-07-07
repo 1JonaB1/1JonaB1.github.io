@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: "Einträge"
+layout: archive
+author_profile: true
 ---
+{% for collection in site.collections %}
+  {% capture label %}{{ collection.label }}{% endcapture %}
+  {% if label != written_label %}
+    {% capture written_label %}{{ label }}{% endcapture %}
+   {% endif %}
+  {% for post in collection.docs %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}

@@ -123,6 +123,7 @@ DEPENDENCIES
   minimal-mistakes-jekyll
   tzinfo (>= 1, < 3)
   tzinfo-data
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.5.14

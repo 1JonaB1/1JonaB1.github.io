@@ -18,32 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jona fährt Fahrrad
-email: jonabuck2@gmail.com
+title : "Jona fährt Fahrrad"
+email: "jonabuck2@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Hi, ich versuche mit dem Fahrrad von Passau nach Istanbul zu fahren. Vielleicht funktioniert es.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https:\\jonabuck.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 timezone              : Europe/Berlin
-
+#locale: de
 
 # Build settings
 theme: minimal-mistakes-jekyll
 
 show_date: true
-breadcrumbs: true  # disabled by default
 
- author:
-   name                : "Jona"
-   avatar              : "/assets/images/default/bio-photo.jpg"
-   bio                 : "Hi, Ich versuche mit dem Fahrrad von Passau nach Istanbul zu fahren. Vielleicht funktioniert es. \n Diese Seite ist hauptsächlich als Tagebuch für mich gedacht und, damit Familie und Bekannte sehen können was ich gerade so mache :)"
-   location            : "Hessen, Deutschland"
-   links:
-     - label: "GitHub"
-       icon: "fab fa-fw fa-github"
-       url: "https://github.com/yourname"
-     - label: "LinkdIn"
-       icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/yourname/"
+author:
+  name                : "Jona"
+  avatar              : "/assets/images/default/bio-photo.jpg"
+  bio                 : "Hi, Ich versuche mit dem Fahrrad von Passau nach Istanbul zu fahren. Vielleicht funktioniert es. \n Diese Seite ist hauptsächlich als Tagebuch für mich gedacht und damit Familie und Freunde sehen können was ich gerade so mache :)"
+  location            : "Hessen, Deutschland"
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
