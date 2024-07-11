@@ -11,6 +11,18 @@
             "id": "993e860786e5d81d",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-07-07-Test und Packen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f245845484f014e",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
@@ -81,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "_posts/2024-07-07-Test und Packen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "_posts/2024-07-07-Test und Packen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "_posts/2024-07-07-Test und Packen.md"
+          }
         }
       }
     ],
@@ -125,11 +141,14 @@
   },
   "active": "993e860786e5d81d",
   "lastOpenFiles": [
+    "assets/images/PXL_20240711_172223127.jpg",
     "index.md",
+    "_posts/2024-07-07-Test und Packen.md",
+    "about.md",
+    "/index.md",
+    "/about.md",
     "about.markdown",
     "index.markdown",
-    "about.md",
-    "_posts/2024-07-07-Test.md",
     "assets/images/default/bio-photo.jpg",
     "_posts/2024-07-07-Test.md.markdown",
     "_data/ui-text.yml",
