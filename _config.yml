@@ -49,3 +49,10 @@ defaults:
       author_profile: true
       read_time: true
       show_date: true
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-QND12F0R86"
+    anonymize_ip: false # default
+
