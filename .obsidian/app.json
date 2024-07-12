@@ -2,5 +2,7 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "_posts",
-  "attachmentFolderPath": "assets/images"
+  "attachmentFolderPath": "assets/images",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute"
 }
