@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-13 Tag 1.md",
+                "file": "_Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-07-13 Tag 1.md",
+            "file": "_Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-07-13 Tag 1.md",
+            "file": "_Template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-07-13 Tag 1.md"
+            "file": "_Template.md"
           }
         }
       }
@@ -133,14 +133,14 @@
   },
   "active": "8f245845484f014e",
   "lastOpenFiles": [
+    "_posts/2024-07-13 Tag 1.md",
     "assets/images/20240713_194014.jpg",
     "assets/images/20240713_144407.jpg",
     "assets/images/PXL_20240713_151748950.jpg",
     "assets/images/PXL_20240713_123801988.MP.jpg",
     "assets/images/PXL_20240713_130048631.jpg",
     "assets/images/PXL_20240713_152451169.jpg",
-    "Template.md",
-    "_posts/2024-07-13 Tag 1.md",
+    "_Template.md",
     "_posts/2024-07-13 1. Tag Passau.md",
     "_posts/2024-07-13 1. Tag Passau 1.md",
     "_posts/2024-07-07-Test und Packen.md",
@@ -154,7 +154,6 @@
     "assets/images/PXL_20240711_172223127 1.jpg",
     "assets/images/PXL_20240712_094015216 1.jpg",
     "assets/images/PXL_20240712_094015216.jpg",
-    "assets/images/PXL_20240711_172223127.jpg",
     "index.md",
     "about.md",
     "/index.md",
