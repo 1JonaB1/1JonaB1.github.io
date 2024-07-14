@@ -11,3 +11,4 @@ author_profile: true
   {% for post in collection.docs %}
     {% include archive-single.html %}
   {% endfor %}
+{% endfor %}
