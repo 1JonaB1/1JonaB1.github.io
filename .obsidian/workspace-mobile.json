@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-20-Tag8.md",
+                "file": "_posts/2024-07-21-Tag9.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-07-20-Tag8.md",
+            "file": "_posts/2024-07-21-Tag9.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-07-20-Tag8.md",
+            "file": "_posts/2024-07-21-Tag9.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-07-20-Tag8.md"
+            "file": "_posts/2024-07-21-Tag9.md"
           }
         }
       }
@@ -133,8 +133,9 @@
   },
   "active": "8f245845484f014e",
   "lastOpenFiles": [
-    "assets/images/PXL_20240720_205146082.MP.jpg",
     "_posts/2024-07-20-Tag8.md",
+    "_posts/2024-07-21-Tag9.md",
+    "assets/images/PXL_20240720_205146082.MP.jpg",
     "assets/images/PXL_20240720_182257655.jpg",
     "assets/images/PXL_20240720_182818087.jpg",
     "assets/images/PXL_20240720_133752522.jpg",
