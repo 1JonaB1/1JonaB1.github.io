@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-22-Tag10.md",
+                "file": "_posts/2024-07-23-Tag11.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-07-22-Tag10.md",
+            "file": "_posts/2024-07-23-Tag11.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-07-22-Tag10.md",
+            "file": "_posts/2024-07-23-Tag11.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-07-22-Tag10.md"
+            "file": "_posts/2024-07-23-Tag11.md"
           }
         }
       }
@@ -133,21 +133,23 @@
   },
   "active": "8f245845484f014e",
   "lastOpenFiles": [
-    "_posts/2024-07-21-Tag9.md",
+    "assets/images/PXL_20240723_091349675.jpg",
+    "assets/images/PXL_20240723_103416658.jpg",
+    "assets/images/PXL_20240723_123338584.MP.jpg",
+    "assets/images/PXL_20240723_114429465.jpg",
+    "assets/images/PXL_20240723_120418017.jpg",
+    "_posts/2024-07-23-Tag11.md",
+    "assets/images/PXL_20240723_104621427.jpg",
+    "assets/images/PXL_20240723_084029375.jpg",
+    "assets/images/PXL_20240723_075118125.MP.jpg",
+    "assets/images/PXL_20240723_083853808.MP.jpg",
+    "assets/images/PXL_20240723_142053355.jpg",
+    "assets/images/PXL_20240723_075955040.jpg",
     "_posts/2024-07-22-Tag10.md",
+    "_posts/2024-07-21-Tag9.md",
     "_posts/2024-07-20-Tag8.md",
-    "assets/images/PXL_20240720_205146082.MP.jpg",
-    "assets/images/PXL_20240720_182257655.jpg",
-    "assets/images/PXL_20240720_182818087.jpg",
-    "assets/images/PXL_20240720_133752522.jpg",
-    "assets/images/PXL_20240720_133518151.MP.jpg",
-    "assets/images/PXL_20240720_133744833.MP.jpg",
     "_posts/2024-07-16-Tag4.md",
-    "assets/images/PXL_20240720_111529398.jpg",
     "_posts/2024-07-17-Tag5,6.md",
-    "assets/images/20240718_154148.jpg",
-    "assets/images/image.jpg",
-    "assets/images/PXL_20240718_125718136.jpg",
     "index.md",
     "_posts/2024-07-15-Tag3.md",
     "_posts/2024-07-14-Tag 2.md",
