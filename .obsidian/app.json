@@ -4,5 +4,8 @@
   "newFileFolderPath": "_posts",
   "attachmentFolderPath": "assets/images",
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "spellcheckDictionary": [
+    "Györ"
+  ]
 }
