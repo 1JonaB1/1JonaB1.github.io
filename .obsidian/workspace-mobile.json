@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-25-Tag13.md",
+                "file": "_posts/2024-07-26-Tag14.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-07-25-Tag13.md",
+            "file": "_posts/2024-07-26-Tag14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-07-25-Tag13.md",
+            "file": "_posts/2024-07-26-Tag14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-07-25-Tag13.md"
+            "file": "_posts/2024-07-26-Tag14.md"
           }
         }
       }
@@ -133,8 +133,13 @@
   },
   "active": "8f245845484f014e",
   "lastOpenFiles": [
-    "_posts/2024-07-24-Tag12.md",
+    "assets/images/PXL_20240726_162237353.jpg",
+    "assets/images/PXL_20240726_122600275.jpg",
+    "assets/images/PXL_20240726_082959204.MP.jpg",
+    "assets/images/PXL_20240726_073537771.jpg",
     "_posts/2024-07-25-Tag13.md",
+    "_posts/2024-07-26-Tag14.md",
+    "_posts/2024-07-24-Tag12.md",
     "assets/images/PXL_20240725_153309650.jpg",
     "assets/images/PXL_20240725_133208012.jpg",
     "assets/images/PXL_20240725_131316236.jpg",
@@ -144,9 +149,6 @@
     "assets/images/PXL_20240724_195911148.jpg",
     "_posts/2024-07-23-Tag11.md",
     "assets/images/PXL_20240723_091349675.jpg",
-    "assets/images/PXL_20240723_103416658.jpg",
-    "assets/images/PXL_20240723_123338584.MP.jpg",
-    "assets/images/PXL_20240723_114429465.jpg",
     "_posts/2024-07-22-Tag10.md",
     "_posts/2024-07-21-Tag9.md",
     "_posts/2024-07-20-Tag8.md",
