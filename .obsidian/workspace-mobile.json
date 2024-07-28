@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-27-Tag15.md",
+                "file": "_posts/2024-07-28-Tag16.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-07-27-Tag15.md",
+            "file": "_posts/2024-07-28-Tag16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-07-27-Tag15.md",
+            "file": "_posts/2024-07-28-Tag16.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-07-27-Tag15.md"
+            "file": "_posts/2024-07-28-Tag16.md"
           }
         }
       }
@@ -133,9 +133,11 @@
   },
   "active": "8f245845484f014e",
   "lastOpenFiles": [
+    "assets/images/PXL_20240728_161543079.jpg",
+    "_posts/2024-07-27-Tag15.md",
+    "_posts/2024-07-28-Tag16.md",
     "assets/images/PXL_20240727_081147097.MP 1.jpg",
     "assets/images/PXL_20240727_190451374.jpg",
-    "_posts/2024-07-27-Tag15.md",
     "assets/images/PXL_20240727_190545139.jpg",
     "assets/images/PXL_20240727_185901566.MP.jpg",
     "assets/images/PXL_20240727_185354745 1.jpg",
@@ -144,7 +146,6 @@
     "assets/images/PXL_20240727_172939218.MP.jpg",
     "assets/images/PXL_20240727_171726147.jpg",
     "assets/images/PXL_20240727_170113163.jpg",
-    "assets/images/PXL_20240727_140943688.MP.jpg",
     "about.md",
     "index.md",
     "_posts/2024-07-26-Tag14.md",
@@ -177,7 +178,6 @@
     "_posts/2024-07-07-Test.md.markdown",
     "_data/ui-text.yml",
     "_data/navigation.yml",
-    "Untitled.md",
-    "Test.md"
+    "Untitled.md"
   ]
 }
