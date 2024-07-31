@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-30-Tag18.md",
+                "file": "_posts/2024-07-31-Tag19.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-07-30-Tag18.md",
+            "file": "_posts/2024-07-31-Tag19.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-07-30-Tag18.md",
+            "file": "_posts/2024-07-31-Tag19.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-07-30-Tag18.md"
+            "file": "_posts/2024-07-31-Tag19.md"
           }
         }
       }
@@ -133,8 +133,11 @@
   },
   "active": "8f245845484f014e",
   "lastOpenFiles": [
-    "assets/images/PXL_20240730_183437284.jpg",
+    "_posts/2024-07-31-Tag19.md",
+    "assets/images/IMG-20240731-WA0013.jpg",
+    "assets/images/IMG-20240731-WA0017.jpg",
     "_posts/2024-07-30-Tag18.md",
+    "assets/images/PXL_20240730_183437284.jpg",
     "assets/images/PXL_20240730_091646522.jpg",
     "assets/images/PXL_20240730_100754603.jpg",
     "_posts/2024-07-29-Tag17.md",
@@ -145,8 +148,6 @@
     "assets/images/PXL_20240727_081147097.MP 1.jpg",
     "assets/images/PXL_20240727_190451374.jpg",
     "assets/images/PXL_20240727_190545139.jpg",
-    "assets/images/PXL_20240727_185901566.MP.jpg",
-    "assets/images/PXL_20240727_185354745 1.jpg",
     "about.md",
     "index.md",
     "_posts/2024-07-26-Tag14.md",
@@ -172,7 +173,6 @@
     "/_config.yml",
     "_includes",
     "/_includes",
-    "/index.md",
     "about.markdown",
     "index.markdown",
     "_posts/2024-07-07-Test.md.markdown",
