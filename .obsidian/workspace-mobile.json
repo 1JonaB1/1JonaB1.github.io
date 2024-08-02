@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-01-Tag20.md",
+                "file": "_posts/2024-08-02-Tag20.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-08-01-Tag20.md",
+            "file": "_posts/2024-08-02-Tag20.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-08-01-Tag20.md",
+            "file": "_posts/2024-08-02-Tag20.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-08-01-Tag20.md"
+            "file": "_posts/2024-08-02-Tag20.md"
           }
         }
       }
@@ -133,10 +133,14 @@
   },
   "active": "8f245845484f014e",
   "lastOpenFiles": [
+    "assets/images/PXL_20240802_121131906.jpg",
+    "assets/images/PXL_20240802_085204031.jpg",
+    "assets/images/PXL_20240802_120918756.jpg",
+    "_posts/2024-08-01-Tag20.md",
+    "_posts/2024-08-02-Tag20.md",
     "assets/images/PXL_20240801_090542498.jpg",
     "assets/images/PXL_20240801_104548520.jpg",
     "_posts/2024-07-30-Tag18.md",
-    "_posts/2024-08-01-Tag20.md",
     "_posts/2024-07-31-Tag19.md",
     "assets/images/IMG-20240731-WA0013.jpg",
     "assets/images/IMG-20240731-WA0017.jpg",
@@ -146,10 +150,7 @@
     "_posts/2024-07-29-Tag17.md",
     "assets/images/PXL_20240729_165527873.jpg",
     "_posts/2024-07-28-Tag16.md",
-    "assets/images/PXL_20240728_161543079.jpg",
     "_posts/2024-07-27-Tag15.md",
-    "assets/images/PXL_20240727_081147097.MP 1.jpg",
-    "assets/images/PXL_20240727_190451374.jpg",
     "about.md",
     "index.md",
     "_posts/2024-07-26-Tag14.md",
@@ -168,7 +169,6 @@
     "_posts/2024-07-13-Tag 1.md",
     "_posts/2024-07-07-Test und Packen.md",
     "_posts/2024-07-13 1. Tag Passau.md",
-    "_posts/2024-07-13 1. Tag Passau 1.md",
     "_includes/google-gtag.html",
     "/_includes/google-gtag.html",
     "/_config.yml",
