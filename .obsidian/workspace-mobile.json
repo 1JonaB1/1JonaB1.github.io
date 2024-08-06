@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-05-Tag23.md",
+                "file": "_posts/2024-08-06-Tag24.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-08-05-Tag23.md",
+            "file": "_posts/2024-08-06-Tag24.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-08-05-Tag23.md",
+            "file": "_posts/2024-08-06-Tag24.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-08-05-Tag23.md"
+            "file": "_posts/2024-08-06-Tag24.md"
           }
         }
       }
@@ -133,11 +133,12 @@
   },
   "active": "8f245845484f014e",
   "lastOpenFiles": [
+    "_posts/2024-08-05-Tag23.md",
+    "_posts/2024-08-06-Tag24.md",
     "assets/images/PXL_20240805_141156722.jpg",
     "assets/images/PXL_20240805_111222221.jpg",
     "assets/images/PXL_20240805_114757785.jpg",
     "assets/images/PXL_20240805_104600191.jpg",
-    "_posts/2024-08-05-Tag23.md",
     "assets/images/PXL_20240805_111954654.jpg",
     "assets/images/PXL_20240805_082604122.jpg",
     "assets/images/PXL_20240805_074828595.jpg",
@@ -145,7 +146,6 @@
     "assets/images/PXL_20240804_142256678.jpg",
     "assets/images/PXL_20240804_135234749.jpg",
     "assets/images/PXL_20240804_102133521.jpg",
-    "assets/images/PXL_20240804_071956207.jpg",
     "_posts/2024-08-03-Tag21.md",
     "_posts/2024-08-02-Tag20.md",
     "_posts/2024-08-01-Tag20.md",
