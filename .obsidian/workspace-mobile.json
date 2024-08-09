@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a2f963dfe5dffe36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-08-09-Tag27.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-08-08-Tag26.md",
+            "file": "_posts/2024-08-09-Tag27.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-08-08-Tag26.md",
+            "file": "_posts/2024-08-09-Tag27.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-08-08-Tag26.md"
+            "file": "_posts/2024-08-09-Tag27.md"
           }
         }
       }
@@ -131,23 +144,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f245845484f014e",
+  "active": "a2f963dfe5dffe36",
   "lastOpenFiles": [
+    "assets/images/PXL_20240809_102839603.jpg",
+    "assets/images/PXL_20240809_101711422.jpg",
+    "assets/images/PXL_20240809_093114633.jpg",
+    "assets/images/PXL_20240809_092403565.jpg",
+    "assets/images/PXL_20240809_092330583.jpg",
+    "assets/images/PXL_20240809_092128231 1.jpg",
+    "assets/images/PXL_20240809_092128231.jpg",
+    "assets/images/PXL_20240809_072514364.jpg",
+    "assets/images/PXL_20240809_045055918.jpg",
+    "_posts/2024-08-08-Tag26.md",
+    "_posts/2024-08-09-Tag27.md",
+    "_posts/Untitled.md",
     "assets/images/PXL_20240808_104422473.jpg",
     "assets/images/PXL_20240808_085729271 1.jpg",
-    "assets/images/PXL_20240808_085729271.jpg",
-    "assets/images/PXL_20240808_080554463 1.jpg",
-    "assets/images/PXL_20240808_080554463.jpg",
     "_posts/2024-08-07-Tag25.md",
-    "_posts/2024-08-08-Tag26.md",
-    "assets/images/PXL_20240807_161256400.jpg",
-    "assets/images/PXL_20240807_124207904.jpg",
-    "assets/images/PXL_20240807_121957706.jpg",
-    "assets/images/PXL_20240807_110700929.MP.jpg",
-    "assets/images/PXL_20240807_052019748.jpg",
     "_posts/2024-08-06-Tag24.md",
     "_posts/2024-08-05-Tag23.md",
-    "assets/images/PXL_20240805_141156722.jpg",
     "_posts/2024-08-04-Tag22.md",
     "_posts/2024-08-03-Tag21.md",
     "_posts/2024-08-02-Tag20.md",
@@ -167,8 +182,6 @@
     "_posts/2024-07-22-Tag10.md",
     "_posts/2024-07-21-Tag9.md",
     "_posts/2024-07-20-Tag8.md",
-    "_posts/2024-07-16-Tag4.md",
-    "_posts/2024-07-17-Tag5,6.md",
     "_includes/google-gtag.html",
     "/_includes/google-gtag.html",
     "/_config.yml",
