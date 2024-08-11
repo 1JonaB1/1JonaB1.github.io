@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-11-Tag28.md",
+                "file": "_posts/2024-08-11-Tag29.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-08-11-Tag28.md",
+            "file": "_posts/2024-08-11-Tag29.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-08-11-Tag28.md",
+            "file": "_posts/2024-08-11-Tag29.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-08-11-Tag28.md"
+            "file": "_posts/2024-08-11-Tag29.md"
           }
         }
       }
@@ -146,8 +146,11 @@
   },
   "active": "a2f963dfe5dffe36",
   "lastOpenFiles": [
-    "_posts/2024-08-09-Tag27.md",
+    "assets/images/PXL_20240810_102626392.jpg",
+    "assets/images/PXL_20240811_100231033.MP.jpg",
     "_posts/2024-08-11-Tag28.md",
+    "_posts/2024-08-11-Tag29.md",
+    "_posts/2024-08-09-Tag27.md",
     "assets/images/PXL_20240809_102839603.jpg",
     "assets/images/PXL_20240809_101711422.jpg",
     "assets/images/PXL_20240809_093114633.jpg",
@@ -159,7 +162,6 @@
     "assets/images/PXL_20240809_045055918.jpg",
     "_posts/2024-08-08-Tag26.md",
     "_posts/Untitled.md",
-    "assets/images/PXL_20240808_104422473.jpg",
     "_posts/2024-08-07-Tag25.md",
     "_posts/2024-08-06-Tag24.md",
     "_posts/2024-08-05-Tag23.md",
@@ -180,8 +182,6 @@
     "_posts/2024-07-24.md",
     "_posts/2024-07-23-Tag11.md",
     "_posts/2024-07-22-Tag10.md",
-    "_posts/2024-07-21-Tag9.md",
-    "_posts/2024-07-20-Tag8.md",
     "_includes/google-gtag.html",
     "/_includes/google-gtag.html",
     "/_config.yml",
