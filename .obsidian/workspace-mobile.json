@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-17-Tag35.md",
+                "file": "_posts/2024-08-18-Tag36.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-08-17-Tag35.md",
+            "file": "_posts/2024-08-18-Tag36.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-08-17-Tag35.md",
+            "file": "_posts/2024-08-18-Tag36.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-08-17-Tag35.md"
+            "file": "_posts/2024-08-18-Tag36.md"
           }
         }
       }
@@ -146,23 +146,23 @@
   },
   "active": "a2f963dfe5dffe36",
   "lastOpenFiles": [
+    "assets/images/PXL_20240818_114749186.jpg",
+    "_posts/2024-08-18-Tag36.md",
+    "assets/images/PXL_20240818_070554616.jpg",
+    "assets/images/PXL_20240818_061206626.jpg",
+    "_posts/2024-08-17-Tag35.md",
+    "_posts/2024-08-08-Tag26.md",
     "assets/images/PXL_20240817_194924580.jpg",
     "assets/images/PXL_20240817_062941360.MP.jpg",
     "_posts/2024-08-16-Tag34.md",
-    "_posts/2024-08-17-Tag35.md",
     "assets/images/PXL_20240816_092817192.jpg",
     "assets/images/PXL_20240816_090320590.jpg",
     "assets/images/PXL_20240816_084311448.MP.jpg",
     "_posts/2024-08-15-Tag33.md",
-    "_posts/2024-08-08-Tag26.md",
     "assets/images/PXL_20240815_085628282.jpg",
     "assets/images/PXL_20240815_084626124.jpg",
-    "assets/images/PXL_20240815_083913902.jpg",
     "_posts/2024-08-14-Tag32.md",
     "_posts/2024-08-13-Tag31.md",
-    "assets/images/PXL_20240813_123613827.MP.jpg",
-    "assets/images/PXL_20240813_100834946.jpg",
-    "assets/images/PXL_20240812_071814548 1.jpg",
     "_posts/2024-08-11-Tag29.md",
     "_posts/2024-08-12-Tag30.md",
     "_posts/2024-08-11-Tag28.md",
@@ -181,7 +181,6 @@
     "_posts/2024-07-28-Tag16.md",
     "_posts/2024-07-27-Tag15.md",
     "about.md",
-    "index.md",
     "_includes/google-gtag.html",
     "/_includes/google-gtag.html",
     "/_config.yml",
